@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zoran4620
-- 👀 I’m interested in coding and making my own games
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning php and mysqul
 
 <!---
 zoran4620/zoran4620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
